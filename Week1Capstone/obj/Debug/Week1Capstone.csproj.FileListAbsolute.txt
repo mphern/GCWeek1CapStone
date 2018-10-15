@@ -1,0 +1,7 @@
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 1 Capstone\Week1Capstone\Week1Capstone\bin\Debug\Week1Capstone.exe.config
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 1 Capstone\Week1Capstone\Week1Capstone\bin\Debug\Week1Capstone.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 1 Capstone\Week1Capstone\Week1Capstone\bin\Debug\Week1Capstone.pdb
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 1 Capstone\Week1Capstone\Week1Capstone\obj\Debug\Week1Capstone.csprojAssemblyReference.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 1 Capstone\Week1Capstone\Week1Capstone\obj\Debug\Week1Capstone.csproj.CoreCompileInputs.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 1 Capstone\Week1Capstone\Week1Capstone\obj\Debug\Week1Capstone.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 1 Capstone\Week1Capstone\Week1Capstone\obj\Debug\Week1Capstone.pdb
